@@ -1,0 +1,17 @@
+#deploy
+target
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# IntelliJ
+/out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Mac
+.DS_Store
