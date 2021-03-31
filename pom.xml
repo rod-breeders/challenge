@@ -37,7 +37,7 @@
         <start-class>com.baluwo.challenge.Application</start-class>
         <joda-time-version>2.10.5</joda-time-version>
         <jadira-usertype-version>6.0.1.GA</jadira-usertype-version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencies>
